@@ -1,0 +1,701 @@
+Name,dsch_yr,race_grp1,Discharges,mdc_desc,gender,age,count
+Monterey,2013,Hispanic,510547.125,Moderate,Unknown,<20,2
+Kings,2018,American,80987.41612,Moderate,Unknown,40-60,3
+Calaveras,2016,American,60801.09972,Moderate,Male,>60,1
+Contra Costa,2014,Black,66433.24119,Moderate,Male,>60,3
+Lake,2016,Black,67234.70423,Severe,Unknown,>60,5
+Del Norte,2015,Other,151510.7154,Severe,Female,20-40,5
+Orange,2018,Black,143200.1854,Moderate,Male,20-40,3
+Merced,2012,American,296934.5341,Moderate,Male,<20,3
+Tehama,2012,Hispanic,279698.1013,Moderate,Female,<20,4
+Marin,2016,Hispanic,192442.6996,Moderate,Female,20-40,3
+Shasta,2015,Other,61602.14822,Moderate,Female,>60,3
+Santa Cruz,2017,American,258075.6827,Moderate,Male,<20,1
+Shasta,2013,Black,65124.03781,Moderate,Female,>60,1
+Placer,2013,American,117819.3044,Moderate,Female,20-40,2
+San Francisco,2017,Black,68454.68802,Moderate,Unknown,>60,3
+Napa,2017,Black,82293.59221,Moderate,Male,40-60,3
+Del Norte,2018,American,78363.30906,Moderate,Unknown,40-60,3
+Nevada,2012,Hispanic,86353.9688,Moderate,Unknown,40-60,3
+Colusa,2016,Aisan,82215.01095,Moderate,Female,40-60,3
+San Joaquin,2017,Hispanic,120296.9874,Moderate,Female,20-40,3
+Santa Barbara,2017,Unknown,102368.4241,Moderate,Male,40-60,1
+Fresno,2018,Aisan,101691.3679,Moderate,Unknown,40-60,4
+Del Norte,2015,Hispanic,99386.22192,Moderate,Male,40-60,3
+Colusa,2016,Black,78644.44394,Severe,Male,>60,5
+Solano,2016,Unknown,233606.7606,Moderate,Female,<20,3
+Sacramento,2013,American,74399.53493,Moderate,Male,>60,3
+Tulare,2014,American,126626.8024,Moderate,Unknown,20-40,3
+Mendocino,2018,Hispanic,134810.4857,Severe,Male,20-40,5
+Placer,2015,Aisan,320061.9014,Moderate,Male,<20,3
+Sonoma,2013,White,113116.9887,Moderate,Female,20-40,4
+Mendocino,2016,Other,136569.3922,Severe,Male,20-40,6
+Yolo,2015,Aisan,174794.5491,Moderate,Female,20-40,2
+Sacramento,2013,White,104458.6811,Moderate,Male,40-60,1
+Humboldt,2014,Unknown,103719.2311,Moderate,Unknown,40-60,3
+Napa,2017,Aisan,69526.41166,Moderate,Female,>60,1
+Merced,2012,Hispanic,456533.6804,Moderate,Female,<20,3
+Fresno,2012,Other,76340.63274,Moderate,Female,>60,4
+Glenn,2015,Other,93322.73543,Moderate,Female,40-60,2
+El Dorado,2017,Other,68454.68802,Moderate,Unknown,>60,3
+Marin,2012,Aisan,91362.1964,Moderate,Female,40-60,3
+Riverside,2018,Hispanic,158375.7076,Moderate,Female,20-40,3
+Yuba,2013,White,55302.76832,Moderate,Male,>60,1
+Ventura,2017,White,62588.28951,Moderate,Female,>60,1
+Riverside,2017,American,199451.1587,Moderate,Unknown,20-40,2
+Glenn,2013,White,99342.82807,Moderate,Unknown,40-60,2
+Yuba,2017,White,209167.4454,Moderate,Unknown,20-40,2
+Alpine,2018,American,99673.36794,Moderate,Female,40-60,3
+Plumas,2015,Unknown,64771.79563,Moderate,Female,>60,3
+Tulare,2018,Black,136828.4857,Severe,Female,20-40,6
+Merced,2012,Unknown,81901.06076,Moderate,Male,40-60,3
+Napa,2016,Other,86685.64199,Moderate,Male,40-60,3
+Modoc,2015,Aisan,57425.71217,Moderate,Male,>60,2
+Out of State/Homeless,2016,Unknown,138523.053,Moderate,Male,20-40,3
+Butte,2017,Hispanic,81185.72085,Moderate,Female,40-60,1
+Yuba,2014,Unknown,171857.763,Moderate,Male,20-40,4
+Butte,2015,Hispanic,63143.01719,Moderate,Unknown,>60,3
+Placer,2017,American,91801.80981,Moderate,Female,40-60,3
+Mariposa,2017,Unknown,158221.782,Moderate,Male,20-40,3
+San Luis Obispo,2014,Other,95839.06638,Severe,Female,40-60,6
+Napa,2016,Unknown,154676.2817,Moderate,Female,20-40,4
+Alameda,2013,American,71150.02322,Moderate,Male,>60,3
+Contra Costa,2012,Other,510042.0,Moderate,Male,<20,2
+Humboldt,2016,White,68389.82563,Moderate,Unknown,>60,3
+Marin,2013,Other,89710.91417,Moderate,Female,40-60,3
+Orange,2015,Black,82572.66417,Moderate,Female,40-60,1
+Alpine,2012,Hispanic,153086.8803,Severe,Male,20-40,6
+Lake,2016,Aisan,134397.6338,Moderate,Male,20-40,3
+San Luis Obispo,2017,American,75844.54872,Moderate,Unknown,40-60,3
+San Bernardino,2013,Unknown,62636.27424,Moderate,Female,>60,2
+Lassen,2014,White,274204.4295,Moderate,Male,<20,1
+El Dorado,2017,White,62272.70108,Moderate,Male,>60,4
+Siskiyou,2014,Hispanic,200878.2807,Moderate,Male,20-40,3
+Lake,2015,White,73420.5972,Moderate,Female,>60,3
+Sonoma,2014,American,152363.5286,Moderate,Female,20-40,3
+San Francisco,2015,White,68324.99392,Moderate,Unknown,>60,3
+Tuolumne,2018,Black,177327.4077,Moderate,Male,20-40,3
+Los Angeles,2016,Aisan,145608.133,Moderate,Unknown,20-40,2
+Yolo,2013,White,138120.0754,Moderate,Female,20-40,3
+Trinity,2014,Hispanic,259325.5475,Moderate,Female,<20,2
+Napa,2012,American,340941.1142,Moderate,Male,<20,1
+Fresno,2017,White,75028.57618,Moderate,Male,40-60,2
+Sacramento,2017,White,58200.19404,Moderate,Female,>60,3
+Mendocino,2014,American,242392.8847,Moderate,Male,<20,1
+Alameda,2015,Aisan,132409.9373,Moderate,Female,20-40,4
+Nevada,2015,Black,72541.22752,Severe,Female,>60,6
+Plumas,2018,Aisan,69470.8776,Moderate,Unknown,>60,2
+Nevada,2015,Unknown,62362.04492,Moderate,Female,>60,3
+Stanislaus,2015,Aisan,64771.79563,Moderate,Unknown,>60,3
+Santa Cruz,2017,Hispanic,130647.9083,Moderate,Female,20-40,3
+Inyo,2015,White,68324.99392,Moderate,Female,>60,3
+San Luis Obispo,2012,Hispanic,95024.53144,Moderate,Female,40-60,2
+Siskiyou,2014,Black,101251.5369,Severe,Female,40-60,5
+Sacramento,2012,American,123740.274,Severe,Female,20-40,5
+Nevada,2017,White,132664.9083,Moderate,Male,20-40,4
+Merced,2017,Other,201468.1587,Moderate,Male,20-40,3
+Mariposa,2015,American,411196.2253,Moderate,Male,<20,2
+Napa,2012,Aisan,81901.06076,Moderate,Female,40-60,3
+Contra Costa,2013,Hispanic,204707.8468,Severe,Male,20-40,5
+Stanislaus,2017,American,268160.6827,Severe,Male,<20,6
+Placer,2014,Aisan,58071.57746,Moderate,Female,>60,2
+Sierra,2018,American,347007.5743,Moderate,Male,<20,3
+Contra Costa,2018,American,80987.41612,Moderate,Female,40-60,3
+Yolo,2015,Hispanic,90225.2293,Moderate,Unknown,40-60,4
+Lassen,2013,Aisan,79272.72402,Moderate,Unknown,40-60,3
+Mendocino,2013,Unknown,174451.7306,Moderate,Female,20-40,2
+San Diego,2014,Hispanic,88125.69596,Moderate,Unknown,40-60,3
+Humboldt,2016,American,265884.8451,Severe,Unknown,<20,5
+Out of State/Homeless,2018,Hispanic,247388.6646,Moderate,Male,<20,3
+Lake,2012,Unknown,103878.5126,Moderate,Unknown,40-60,2
+Los Angeles,2018,Hispanic,73082.98983,Moderate,Female,40-60,1
+Amador,2015,Unknown,85056.79577,Moderate,Female,40-60,3
+Sierra,2014,Other,142645.0327,Moderate,Female,20-40,3
+Tuolumne,2013,Other,66370.28464,Moderate,Unknown,>60,3
+El Dorado,2017,Aisan,97538.07945,Moderate,Male,40-60,4
+Amador,2017,Hispanic,268160.6827,Severe,Unknown,<20,6
+Mono,2016,Other,320376.658,Moderate,Female,<20,3
+Out of State/Homeless,2018,Unknown,93711.82633,Moderate,Female,40-60,3
+Colusa,2016,Hispanic,512064.0,Moderate,Unknown,<20,2
+Sonoma,2014,White,61544.01833,Moderate,Male,>60,3
+Monterey,2013,American,68172.31565,Moderate,Female,>60,1
+Imperial,2018,Hispanic,66501.58109,Moderate,Male,>60,2
+Contra Costa,2013,White,217024.1131,Moderate,Unknown,<20,1
+Out of State/Homeless,2013,Aisan,103619.257,Moderate,Unknown,40-60,3
+Glenn,2016,Hispanic,233606.7606,Moderate,Unknown,<20,3
+Napa,2013,Other,70134.43285,Moderate,Female,>60,3
+Yolo,2014,Unknown,111211.4012,Moderate,Male,20-40,3
+Alpine,2016,Hispanic,136507.053,Moderate,Male,20-40,2
+San Bernardino,2017,Aisan,61718.4901,Moderate,Unknown,>60,3
+Mono,2012,Aisan,110996.6282,Moderate,Female,20-40,3
+Tulare,2016,Other,74956.19742,Moderate,Female,40-60,2
+Lake,2018,White,65808.06705,Moderate,Female,>60,3
+Riverside,2018,Other,81669.97974,Moderate,Female,40-60,4
+Napa,2014,Hispanic,121962.3909,Moderate,Unknown,20-40,4
+Kings,2017,White,66622.28951,Moderate,Male,>60,3
+Lake,2014,Other,70253.06403,Moderate,Female,>60,2
+Mendocino,2014,Unknown,80678.65041,Moderate,Female,40-60,3
+Placer,2018,Aisan,116377.2986,Moderate,Male,20-40,1
+Mendocino,2015,Hispanic,74541.44053,Moderate,Male,>60,3
+Kings,2016,Black,246904.5376,Moderate,Male,<20,3
+Monterey,2015,Unknown,457887.1144,Moderate,Male,<20,3
+Merced,2014,Unknown,171857.763,Moderate,Female,20-40,4
+Madera,2017,Black,73447.10087,Severe,Female,>60,5
+Los Angeles,2016,Other,72350.61972,Moderate,Female,>60,4
+Santa Barbara,2016,White,163889.7615,Moderate,Female,20-40,3
+Orange,2014,White,453407.7472,Moderate,Female,<20,1
+Imperial,2014,American,125206.4956,Moderate,Female,20-40,4
+Kern,2016,American,65444.8963,Moderate,Unknown,>60,2
+Sonoma,2015,Hispanic,244647.6519,Moderate,Male,<20,2
+San Bernardino,2018,Black,106504.9544,Moderate,Male,40-60,3
+Tuolumne,2018,Other,153965.1774,Severe,Male,20-40,6
+Calaveras,2016,Other,65683.68359,Moderate,Unknown,>60,3
+Amador,2012,Unknown,191691.7719,Moderate,Male,20-40,3
+Butte,2013,Unknown,261083.0876,Moderate,Female,<20,3
+Yolo,2016,American,67460.8963,Moderate,Female,>60,3
+Mariposa,2013,American,165652.1402,Moderate,Male,20-40,1
+San Benito,2017,White,67524.8369,Moderate,Male,>60,3
+Los Angeles,2013,Unknown,71295.25582,Severe,Female,>60,5
+Madera,2016,Hispanic,71353.23944,Moderate,Male,>60,3
+Inyo,2017,Unknown,75844.54872,Moderate,Male,40-60,3
+Del Norte,2016,Aisan,320376.658,Moderate,Female,<20,3
+San Mateo,2017,American,56221.70108,Moderate,Male,>60,1
+Nevada,2016,Other,79804.36057,Severe,Male,40-60,5
+Fresno,2015,Unknown,134358.662,Moderate,Female,20-40,1
+Lake,2015,Hispanic,54060.82599,Moderate,Unknown,>60,1
+Mono,2012,American,108984.6282,Moderate,Female,20-40,2
+Kern,2013,Unknown,351344.1056,Severe,Male,<20,6
+Shasta,2016,Unknown,65683.68359,Moderate,Male,>60,3
+Siskiyou,2017,Hispanic,512570.125,Moderate,Female,<20,2
+Mariposa,2014,Unknown,63545.41752,Moderate,Unknown,>60,2
+Out of State/Homeless,2015,Other,59440.71217,Moderate,Unknown,>60,3
+Yolo,2017,Aisan,80910.16949,Moderate,Male,40-60,3
+Butte,2015,Aisan,130237.3344,Moderate,Female,20-40,1
+Sacramento,2014,Other,74470.47086,Moderate,Male,>60,3
+Contra Costa,2015,Aisan,99789.25346,Moderate,Unknown,40-60,1
+Yolo,2017,Unknown,143061.2962,Moderate,Female,20-40,3
+Trinity,2013,Unknown,123073.1883,Moderate,Female,20-40,3
+Santa Clara,2017,Aisan,74683.4811,Moderate,Male,>60,3
+Humboldt,2014,Black,83489.21127,Moderate,Male,40-60,3
+San Joaquin,2018,Aisan,102468.9544,Moderate,Male,40-60,1
+Glenn,2014,Other,108589.4904,Moderate,Male,40-60,3
+Fresno,2018,Hispanic,92160.08818,Moderate,Male,40-60,4
+Santa Barbara,2013,American,101355.8281,Moderate,Female,40-60,3
+Mendocino,2014,White,455421.7472,Moderate,Male,<20,2
+San Benito,2014,Aisan,86111.69596,Moderate,Unknown,40-60,2
+Contra Costa,2017,American,106402.4241,Moderate,Unknown,40-60,3
+Marin,2017,American,63735.4901,Moderate,Unknown,>60,4
+Yuba,2012,Hispanic,146391.8605,Severe,Unknown,20-40,5
+San Benito,2016,Black,103458.7223,Severe,Male,40-60,6
+Santa Cruz,2017,Aisan,70401.41194,Moderate,Female,>60,3
+Butte,2013,Other,196655.8468,Moderate,Unknown,20-40,1
+Alameda,2018,Unknown,192818.7138,Moderate,Female,20-40,3
+Merced,2013,Black,113860.7494,Moderate,Female,20-40,3
+Alpine,2017,Other,123550.7639,Moderate,Female,20-40,3
+Inyo,2016,Unknown,84262.80311,Moderate,Female,40-60,1
+Inyo,2018,Black,97630.81743,Moderate,Male,40-60,4
+Imperial,2016,American,95394.72225,Moderate,Female,40-60,2
+Colusa,2012,Hispanic,71096.34992,Moderate,Female,>60,4
+Orange,2014,Black,212579.6856,Moderate,Male,20-40,4
+El Dorado,2015,White,66496.22752,Moderate,Unknown,>60,3
+Humboldt,2013,Black,221050.1131,Moderate,Female,<20,3
+Lassen,2018,Aisan,279326.6966,Moderate,Male,<20,3
+Amador,2013,Hispanic,63023.7275,Moderate,Male,>60,3
+San Francisco,2015,Other,84151.46718,Moderate,Female,40-60,4
+Solano,2014,Black,108109.1292,Moderate,Male,40-60,4
+Lassen,2016,American,59974.43834,Moderate,Male,>60,1
+Inyo,2014,Other,59857.49848,Moderate,Male,>60,1
+Orange,2013,Aisan,180490.7306,Severe,Male,20-40,5
+Modoc,2017,Hispanic,58867.81972,Moderate,Female,>60,3
+Humboldt,2017,Unknown,77045.57618,Moderate,Unknown,40-60,3
+Madera,2017,Other,134681.9083,Severe,Female,20-40,5
+San Luis Obispo,2013,Hispanic,78765.27055,Moderate,Male,40-60,4
+San Francisco,2013,Aisan,58646.5408,Moderate,Female,>60,3
+Marin,2018,Other,141182.1854,Moderate,Male,20-40,2
+Butte,2018,White,90482.07216,Moderate,Unknown,40-60,4
+Mendocino,2017,Black,298397.1483,Moderate,Unknown,<20,3
+Del Norte,2013,Hispanic,77569.00199,Moderate,Male,40-60,4
+Santa Clara,2018,Other,73630.36867,Moderate,Male,>60,3
+Calaveras,2013,Other,86436.82757,Moderate,Female,40-60,3
+Ventura,2016,American,298104.338,Moderate,Unknown,<20,3
+Butte,2014,Unknown,233149.479,Moderate,Male,<20,3
+Inyo,2015,Unknown,348000.5908,Moderate,Male,<20,4
+Lassen,2013,Black,81979.49209,Moderate,Female,40-60,3
+Glenn,2012,Unknown,85600.80326,Moderate,Female,40-60,1
+Solano,2015,Hispanic,101804.2535,Moderate,Unknown,40-60,2
+Plumas,2017,Black,71421.04245,Moderate,Unknown,>60,3
+Kern,2017,White,416042.8969,Moderate,Female,<20,4
+San Benito,2015,Unknown,70267.85913,Moderate,Male,>60,3
+Lassen,2014,Other,108589.4904,Moderate,Male,40-60,3
+Calaveras,2018,American,147911.1774,Moderate,Female,20-40,3
+Siskiyou,2017,Aisan,219900.4523,Moderate,Male,<20,2
+Imperial,2014,Black,233149.479,Moderate,Female,<20,3
+Alpine,2012,White,76679.0314,Moderate,Male,40-60,3
+Ventura,2018,White,144846.0307,Severe,Male,20-40,6
+San Diego,2015,American,123311.8606,Moderate,Male,20-40,3
+Orange,2013,White,234934.0063,Moderate,Unknown,<20,4
+Butte,2017,White,379333.1119,Moderate,Male,<20,4
+Modoc,2017,Aisan,99577.60662,Moderate,Female,40-60,3
+Merced,2018,Unknown,87853.85896,Moderate,Male,40-60,1
+Amador,2012,Other,133876.8151,Moderate,Female,20-40,3
+Colusa,2013,Black,119832.3044,Moderate,Female,20-40,3
+Orange,2013,Hispanic,89236.98475,Moderate,Male,40-60,1
+Yuba,2014,White,78664.65041,Moderate,Unknown,40-60,2
+Nevada,2012,Black,65776.6727,Moderate,Male,>60,4
+Calaveras,2013,White,87697.91417,Moderate,Female,40-60,2
+Monterey,2016,Aisan,104283.9431,Moderate,Female,40-60,2
+Napa,2018,American,218098.5525,Moderate,Male,<20,1
+Tulare,2017,Hispanic,199451.1587,Moderate,Unknown,20-40,2
+Kings,2018,White,140810.0307,Moderate,Unknown,20-40,4
+Sutter,2014,American,56022.18042,Moderate,Female,>60,2
+Ventura,2017,Unknown,77045.57618,Moderate,Unknown,40-60,3
+Napa,2015,Unknown,409181.2253,Moderate,Female,<20,1
+Los Angeles,2018,American,128756.4857,Moderate,Male,20-40,2
+Tehama,2016,Other,142922.4744,Moderate,Male,20-40,3
+Del Norte,2013,Aisan,193892.3662,Moderate,Unknown,20-40,4
+Shasta,2014,Hispanic,72267.06403,Moderate,Male,>60,3
+Tuolumne,2017,Hispanic,73575.8369,Severe,Male,>60,6
+Glenn,2015,Aisan,138388.662,Moderate,Male,20-40,3
+Butte,2016,White,61651.68359,Moderate,Female,>60,1
+Contra Costa,2014,Aisan,72267.06403,Moderate,Female,>60,3
+Yolo,2013,American,105992.7962,Moderate,Female,40-60,3
+Santa Cruz,2013,Other,216398.6341,Severe,Female,20-40,6
+Marin,2018,White,64556.86319,Moderate,Male,>60,4
+San Joaquin,2014,Aisan,59384.7271,Moderate,Male,>60,3
+Ventura,2016,White,154676.2817,Moderate,Unknown,20-40,4
+Los Angeles,2012,White,55948.29496,Moderate,Female,>60,1
+Mendocino,2018,Unknown,68592.86319,Severe,Female,>60,6
+Stanislaus,2012,White,371438.7135,Moderate,Female,<20,1
+Santa Clara,2016,Aisan,346326.0845,Moderate,Male,<20,3
+Humboldt,2015,Hispanic,126364.9373,Moderate,Female,20-40,1
+Plumas,2013,White,279972.1983,Moderate,Male,<20,4
+Santa Barbara,2017,Aisan,117584.9495,Severe,Male,20-40,6
+Lassen,2012,American,71229.4361,Severe,Male,>60,5
+Imperial,2016,Black,154035.9311,Moderate,Male,20-40,1
+Alpine,2012,Aisan,63996.29496,Severe,Female,>60,5
+Alpine,2015,American,210771.838,Moderate,Male,20-40,3
+Colusa,2014,Other,58275.16098,Moderate,Unknown,>60,1
+Trinity,2013,Aisan,64649.27424,Moderate,Female,>60,3
+Yolo,2013,Unknown,73964.43131,Moderate,Unknown,40-60,1
+Santa Barbara,2012,Hispanic,57403.84066,Moderate,Male,>60,1
+Placer,2017,Aisan,104019.4426,Moderate,Female,40-60,3
+Nevada,2017,Black,58867.81972,Moderate,Unknown,>60,3
+Lake,2017,Other,93818.80981,Moderate,Female,40-60,4
+Plumas,2015,American,88181.46718,Severe,Male,40-60,6
+El Dorado,2014,Unknown,459449.7472,Moderate,Male,<20,4
+El Dorado,2015,American,122719.5787,Moderate,Male,20-40,1
+Orange,2013,Black,375833.0282,Moderate,Female,<20,3
+Del Norte,2017,White,68639.28951,Moderate,Female,>60,4
+Sierra,2015,Hispanic,123311.8606,Moderate,Male,20-40,3
+Calaveras,2015,Black,147480.7154,Moderate,Male,20-40,3
+Stanislaus,2012,Other,63423.26882,Moderate,Male,>60,2
+Inyo,2014,Hispanic,87517.21127,Severe,Unknown,40-60,5
+San Bernardino,2012,Unknown,59938.96619,Moderate,Unknown,>60,4
+Shasta,2014,Black,152363.5286,Moderate,Female,20-40,3
+San Mateo,2018,Black,91889.85896,Moderate,Female,40-60,3
+San Joaquin,2017,American,65279.41938,Moderate,Male,>60,4
+Santa Cruz,2018,Black,158375.7076,Moderate,Female,20-40,3
+Solano,2017,Hispanic,62479.89603,Moderate,Male,>60,3
+Nevada,2014,Unknown,84706.65041,Severe,Male,40-60,5
+San Benito,2012,American,73891.9623,Moderate,Unknown,40-60,1
+Lassen,2015,American,110709.3504,Moderate,Female,40-60,4
+Santa Clara,2013,Unknown,63484.3285,Moderate,Female,>60,2
+Plumas,2012,Hispanic,59272.83585,Moderate,Unknown,>60,3
+Amador,2018,White,145893.1774,Moderate,Female,20-40,2
+Santa Barbara,2015,Other,78913.85356,Moderate,Female,40-60,4
+Santa Cruz,2018,White,101844.9225,Moderate,Male,40-60,3
+Los Angeles,2017,Other,152808.7665,Moderate,Male,20-40,3
+Shasta,2017,Aisan,117218.5592,Moderate,Male,20-40,3
+Glenn,2017,Hispanic,143061.2962,Moderate,Male,20-40,3
+Sutter,2015,Other,132252.3344,Moderate,Female,20-40,2
+Nevada,2015,Aisan,101401.2219,Moderate,Male,40-60,4
+Marin,2015,White,72526.44053,Moderate,Female,>60,2
+Kings,2014,Black,77642.08721,Moderate,Unknown,40-60,4
+Siskiyou,2016,White,70334.61972,Moderate,Female,>60,3
+Glenn,2015,American,192254.8301,Moderate,Unknown,20-40,3
+Kern,2017,Aisan,73575.8369,Severe,Female,>60,6
+Butte,2017,Black,86768.65949,Moderate,Unknown,40-60,3
+Solano,2013,White,246179.2361,Moderate,Male,<20,3
+San Diego,2015,Black,322076.9014,Moderate,Unknown,<20,4
+San Mateo,2013,Hispanic,375833.0282,Moderate,Unknown,<20,3
+San Francisco,2012,Black,66307.35786,Moderate,Female,>60,3
+Trinity,2017,Unknown,140674.5093,Moderate,Unknown,20-40,4
+Merced,2017,Aisan,113550.9495,Moderate,Female,20-40,4
+Monterey,2018,American,92500.07216,Severe,Female,40-60,5
+Yolo,2016,Aisan,210978.0913,Moderate,Male,20-40,3
+Amador,2017,Black,86768.65949,Moderate,Male,40-60,3
+Modoc,2018,Unknown,127706.3022,Severe,Female,20-40,5
+Tuolumne,2015,Other,58090.82599,Moderate,Male,>60,3
+Amador,2015,Other,60862.48532,Moderate,Unknown,>60,3
+San Joaquin,2012,American,375462.7135,Moderate,Female,<20,3
+Shasta,2013,American,277959.1983,Moderate,Unknown,<20,3
+Siskiyou,2017,Black,79062.57618,Moderate,Unknown,40-60,4
+Siskiyou,2013,Aisan,77990.43131,Moderate,Male,40-60,3
+Mono,2016,White,170175.2508,Moderate,Unknown,20-40,3
+San Luis Obispo,2013,Unknown,151220.089,Severe,Unknown,20-40,5
+Plumas,2015,Black,89883.25988,Moderate,Unknown,40-60,3
+Modoc,2013,American,66662.27424,Moderate,Female,>60,4
+San Joaquin,2017,Unknown,85627.0563,Severe,Male,40-60,6
+Yolo,2018,Unknown,76772.55199,Moderate,Male,>60,4
+Out of State/Homeless,2012,Black,93173.34558,Moderate,Female,40-60,3
+Inyo,2016,White,67460.8963,Moderate,Male,>60,3
+Trinity,2016,Aisan,72404.65876,Moderate,Female,>60,3
+San Joaquin,2015,Other,91898.25988,Moderate,Female,40-60,4
+Amador,2017,American,58200.19404,Moderate,Female,>60,3
+Amador,2016,White,83532.16901,Severe,Unknown,40-60,5
+Siskiyou,2013,Hispanic,283998.1983,Severe,Male,<20,6
+Los Angeles,2015,Other,70511.44053,Moderate,Unknown,>60,1
+Out of State/Homeless,2016,White,348342.0845,Moderate,Unknown,<20,4
+San Luis Obispo,2013,Aisan,65497.3285,Moderate,Male,>60,3
+Imperial,2017,White,64066.95105,Moderate,Male,>60,3
+Solano,2014,White,68447.24119,Moderate,Unknown,>60,4
+San Diego,2012,American,59272.83585,Moderate,Male,>60,3
+Santa Barbara,2014,Black,78029.9609,Moderate,Male,40-60,1
+Sutter,2012,White,75483.95109,Moderate,Male,40-60,3
+Shasta,2015,Black,170009.4665,Moderate,Male,20-40,3
+Siskiyou,2012,White,80524.48836,Moderate,Female,40-60,3
+Santa Barbara,2012,Other,86353.9688,Moderate,Male,40-60,3
+Placer,2018,White,222134.5525,Moderate,Unknown,<20,3
+Out of State/Homeless,2012,American,191691.7719,Moderate,Female,20-40,3
+Santa Cruz,2016,White,147624.133,Moderate,Male,20-40,3
+Imperial,2016,White,117105.3559,Moderate,Female,20-40,3
+Glenn,2014,White,113970.9014,Moderate,Female,20-40,3
+Sacramento,2013,Unknown,81285.72402,Moderate,Female,40-60,4
+Yolo,2013,Hispanic,61485.91581,Moderate,Unknown,>60,3
+San Benito,2017,American,106402.4241,Moderate,Male,40-60,3
+Alameda,2013,Unknown,373820.0282,Moderate,Female,<20,2
+Santa Clara,2018,American,78363.30906,Moderate,Female,40-60,3
+Trinity,2017,Hispanic,85746.10966,Moderate,Unknown,40-60,4
+Merced,2013,Hispanic,66182.42253,Moderate,Male,>60,2
+Imperial,2014,Other,70442.47086,Moderate,Male,>60,1
+Riverside,2018,Aisan,154339.7076,Moderate,Female,20-40,1
+Ventura,2018,Aisan,86851.71667,Moderate,Male,40-60,3
+Riverside,2016,Unknown,108799.2608,Moderate,Female,40-60,3
+Santa Cruz,2015,Other,120064.5336,Moderate,Unknown,20-40,3
+Imperial,2013,Black,86907.02638,Moderate,Male,40-60,4
+San Mateo,2014,American,57370.7271,Moderate,Male,>60,2
+Butte,2015,White,72335.84507,Moderate,Male,>60,3
+Tehama,2018,Other,147911.1774,Moderate,Female,20-40,3
+Yuba,2017,Aisan,126995.3097,Moderate,Unknown,20-40,3
+Mariposa,2017,Black,72488.68802,Severe,Male,>60,5
+Glenn,2016,Aisan,147624.133,Moderate,Female,20-40,3
+Nevada,2015,Hispanic,97371.22192,Moderate,Male,40-60,2
+Yuba,2013,American,74399.53493,Moderate,Male,>60,3
+Ventura,2016,Hispanic,320376.658,Moderate,Male,<20,3
+Sutter,2018,American,64955.79468,Moderate,Male,>60,3
+Trinity,2013,White,277959.1983,Moderate,Male,<20,3
+Siskiyou,2016,Black,248920.5376,Moderate,Female,<20,4
+Santa Barbara,2013,Hispanic,121845.3044,Moderate,Male,20-40,4
+Santa Barbara,2017,American,56221.70108,Moderate,Male,>60,1
+San Joaquin,2014,White,62303.16098,Moderate,Male,>60,3
+Tulare,2015,Other,140403.662,Moderate,Male,20-40,4
+Monterey,2014,Hispanic,84071.9609,Moderate,Female,40-60,4
+San Diego,2013,Aisan,80601.55099,Moderate,Unknown,40-60,3
+Mariposa,2014,Black,217238.7887,Moderate,Male,<20,1
+Glenn,2017,Unknown,158221.782,Moderate,Male,20-40,3
+Alpine,2018,Hispanic,207718.9768,Severe,Unknown,20-40,6
+Siskiyou,2015,Unknown,70267.85913,Moderate,Unknown,>60,3
+Mariposa,2017,Aisan,61718.4901,Moderate,Female,>60,3
+Marin,2013,Unknown,57981.56049,Moderate,Male,>60,3
+Yolo,2012,Unknown,59972.29496,Moderate,Male,>60,3
+Siskiyou,2016,Aisan,298104.338,Moderate,Male,<20,3
+Madera,2016,White,346326.0845,Moderate,Male,<20,3
+Plumas,2018,Hispanic,86851.71667,Moderate,Male,40-60,3
+Placer,2016,Other,62177.4972,Severe,Female,>60,5
+San Francisco,2016,Hispanic,257820.8451,Moderate,Unknown,<20,1
+San Luis Obispo,2015,American,71285.46856,Moderate,Female,>60,3
+Amador,2018,Black,128756.4857,Moderate,Unknown,20-40,2
+Colusa,2013,White,119832.3044,Moderate,Male,20-40,3
+Marin,2015,American,73420.5972,Moderate,Female,>60,3
+Santa Barbara,2018,Other,264384.6461,Moderate,Male,<20,4
+Inyo,2016,Other,64006.43834,Moderate,Unknown,>60,3
+El Dorado,2016,Aisan,376945.0672,Moderate,Female,<20,3
+Del Norte,2012,Other,409978.7223,Moderate,Unknown,<20,2
+Orange,2016,American,138523.053,Moderate,Male,20-40,3
+Tuolumne,2014,Other,140631.0327,Moderate,Female,20-40,2
+Placer,2015,Unknown,82169.47587,Severe,Female,40-60,5
+San Francisco,2012,Unknown,99048.53144,Moderate,Male,40-60,4
+Humboldt,2015,White,105834.2535,Moderate,Male,40-60,4
+Plumas,2014,White,58701.82158,Moderate,Female,>60,3
+Del Norte,2013,Other,59799.07133,Moderate,Female,>60,1
+San Bernardino,2014,Unknown,157760.4539,Moderate,Male,20-40,3
+Merced,2018,Aisan,81265.24177,Moderate,Female,40-60,1
+Santa Barbara,2015,White,113333.8654,Moderate,Unknown,20-40,4
+Tulare,2015,Aisan,65251.50704,Moderate,Female,>60,1
+Del Norte,2014,Black,152363.5286,Moderate,Male,20-40,3
+Solano,2014,American,79348.50287,Moderate,Male,40-60,3
+San Bernardino,2018,Unknown,347007.5743,Moderate,Unknown,<20,3
+San Bernardino,2016,Unknown,93532.16055,Moderate,Female,40-60,3
+San Diego,2015,White,62877.48532,Moderate,Male,>60,4
+Out of State/Homeless,2015,Unknown,85056.79577,Moderate,Female,40-60,3
+Modoc,2018,Aisan,179345.4077,Moderate,Male,20-40,4
+Placer,2015,Black,85853.25988,Moderate,Unknown,40-60,1
+Riverside,2017,White,316657.5694,Moderate,Unknown,<20,1
+Orange,2012,Unknown,61984.29496,Moderate,Unknown,>60,4
+Solano,2017,Other,177154.704,Moderate,Female,20-40,3
+Orange,2018,White,64955.79468,Moderate,Female,>60,3
+Santa Barbara,2014,Unknown,188039.0523,Moderate,Female,20-40,1
+Alameda,2015,Other,103819.2535,Moderate,Female,40-60,3
+Riverside,2016,Black,80832.95966,Moderate,Unknown,40-60,3
+Merced,2014,Aisan,77642.08721,Moderate,Female,40-60,4
+Merced,2017,Black,111533.9495,Moderate,Male,20-40,3
+San Mateo,2013,Aisan,64773.7205,Severe,Female,>60,5
+Yuba,2012,Other,411990.7223,Moderate,Male,<20,3
+Plumas,2017,White,66367.41194,Moderate,Male,>60,1
+Imperial,2014,Unknown,63885.49848,Moderate,Unknown,>60,3
+San Francisco,2016,White,91397.38545,Moderate,Female,40-60,1
+Kings,2012,Aisan,183658.9748,Moderate,Unknown,20-40,3
+Lake,2018,Other,113659.5693,Moderate,Male,20-40,4
+Mono,2017,Black,279052.9285,Moderate,Male,<20,3
+Lake,2017,American,104385.4241,Moderate,Unknown,40-60,2
+Santa Clara,2012,Black,99099.4897,Moderate,Female,40-60,3
+San Luis Obispo,2017,Other,63735.4901,Moderate,Female,>60,4
+Madera,2016,Aisan,166143.2508,Moderate,Male,20-40,1
+Fresno,2014,American,58036.18042,Moderate,Male,>60,3
+San Bernardino,2015,Aisan,136373.662,Moderate,Female,20-40,2
+Plumas,2016,Aisan,93532.16055,Moderate,Female,40-60,3
+Del Norte,2016,Black,78816.95966,Moderate,Male,40-60,2
+Fresno,2017,Hispanic,516604.125,Moderate,Female,<20,4
+Out of State/Homeless,2014,American,54008.18042,Moderate,Female,>60,1
+Santa Cruz,2016,Aisan,201271.4366,Moderate,Unknown,20-40,3
+San Francisco,2012,Aisan,342953.1142,Moderate,Unknown,<20,2
+Lake,2015,Aisan,130394.9373,Moderate,Female,20-40,3
+San Mateo,2014,Aisan,378217.5253,Moderate,Male,<20,4
+Yolo,2012,Aisan,73211.12442,Moderate,Unknown,>60,3
+Lassen,2018,Hispanic,67460.9445,Moderate,Male,>60,2
+Riverside,2017,Other,66367.41194,Moderate,Female,>60,1
+Humboldt,2018,Hispanic,101844.9225,Moderate,Female,40-60,3
+Sacramento,2017,Hispanic,56943.35815,Moderate,Unknown,>60,1
+Calaveras,2013,Hispanic,66108.43285,Moderate,Female,>60,1
+Lake,2018,Unknown,66145.49228,Moderate,Unknown,>60,4
+Santa Barbara,2014,Other,113970.9014,Moderate,Unknown,20-40,3
+Butte,2017,Aisan,71810.54872,Moderate,Male,40-60,1
+San Joaquin,2015,American,61602.14822,Moderate,Unknown,>60,3
+Orange,2017,Unknown,91801.80981,Moderate,Female,40-60,3
+Kern,2016,Black,88294.80311,Moderate,Female,40-60,3
+Madera,2013,American,70134.43285,Moderate,Male,>60,3
+Tulare,2014,Black,95246.1294,Moderate,Female,40-60,3
+Lassen,2012,Hispanic,210153.6834,Moderate,Female,20-40,3
+Riverside,2016,White,91397.38545,Moderate,Male,40-60,1
+Yolo,2018,Black,68519.58109,Moderate,Female,>60,3
+Humboldt,2018,Other,154975.3234,Moderate,Unknown,20-40,4
+Placer,2015,White,320061.9014,Moderate,Male,<20,3
+Lassen,2017,Unknown,64066.95105,Moderate,Male,>60,3
+Riverside,2018,White,74754.55199,Moderate,Female,>60,3
+Shasta,2018,Unknown,162191.0949,Moderate,Female,20-40,2
+Marin,2016,White,215010.0913,Severe,Male,20-40,5
+San Bernardino,2016,Hispanic,152660.2817,Moderate,Female,20-40,3
+Sonoma,2016,Other,210978.0913,Moderate,Male,20-40,3
+Stanislaus,2014,American,76484.47086,Moderate,Female,>60,4
+Contra Costa,2012,Black,193703.7719,Moderate,Male,20-40,4
+San Benito,2015,White,453857.1144,Moderate,Unknown,<20,1
+Siskiyou,2012,Aisan,206129.6834,Moderate,Female,20-40,1
+Sutter,2012,Other,514066.0,Moderate,Unknown,<20,4
+Mariposa,2017,American,73011.57618,Moderate,Male,40-60,1
+Lake,2012,Aisan,71459.95109,Moderate,Female,40-60,1
+Marin,2018,American,89337.24177,Severe,Female,40-60,5
+Ventura,2012,Hispanic,104355.9223,Moderate,Female,40-60,1
+Tuolumne,2013,Unknown,111103.9887,Moderate,Female,20-40,3
+Kings,2017,American,106036.4426,Moderate,Male,40-60,4
+Sutter,2017,Unknown,275018.9285,Moderate,Unknown,<20,1
+Napa,2012,Hispanic,232692.6454,Moderate,Female,<20,3
+Lassen,2012,Black,377474.7135,Moderate,Unknown,<20,4
+Del Norte,2012,White,83932.75069,Moderate,Male,40-60,1
+Kings,2015,Black,71285.46856,Moderate,Female,>60,3
+Monterey,2016,Hispanic,380977.0672,Severe,Female,<20,5
+Solano,2013,Hispanic,62244.30478,Moderate,Female,>60,3
+San Bernardino,2013,White,105381.8281,Severe,Male,40-60,5
+Mariposa,2012,Unknown,512054.0,Moderate,Male,<20,3
+Marin,2014,White,86989.39162,Moderate,Female,40-60,4
+Lake,2013,Unknown,116766.074,Moderate,Female,20-40,3
+Placer,2012,Aisan,135973.8799,Moderate,Female,20-40,2
+Riverside,2016,American,60198.96656,Moderate,Male,>60,3
+Del Norte,2014,Hispanic,76484.47086,Moderate,Female,>60,4
+Del Norte,2018,White,218098.5525,Moderate,Female,<20,1
+Plumas,2013,Unknown,86436.82757,Moderate,Female,40-60,3
+Santa Cruz,2017,Black,104019.4426,Moderate,Male,40-60,3
+Calaveras,2017,Hispanic,211184.4454,Moderate,Male,20-40,3
+Imperial,2013,White,59472.91581,Moderate,Female,>60,2
+Yolo,2017,American,79576.0563,Moderate,Male,40-60,3
+Marin,2014,Black,513066.5,Moderate,Unknown,<20,3
+Merced,2014,Black,59384.7271,Moderate,Male,>60,3
+Santa Barbara,2013,Black,61812.07133,Moderate,Female,>60,2
+Imperial,2013,American,76173.43285,Severe,Male,>60,6
+Humboldt,2018,Unknown,91889.85896,Moderate,Female,40-60,3
+San Francisco,2012,Hispanic,64976.12485,Moderate,Male,>60,4
+San Mateo,2016,White,80230.05142,Moderate,Male,40-60,4
+Los Angeles,2016,Black,62420.9566,Moderate,Female,>60,3
+Santa Cruz,2014,Other,116879.1133,Moderate,Male,20-40,3
+Alameda,2014,White,69203.72982,Moderate,Unknown,>60,2
+Contra Costa,2012,Unknown,79889.06076,Moderate,Unknown,40-60,2
+San Joaquin,2018,Unknown,95729.82633,Moderate,Female,40-60,4
+Santa Barbara,2013,White,134006.9251,Moderate,Male,20-40,3
+Imperial,2014,Hispanic,61544.01833,Moderate,Male,>60,3
+Lassen,2012,Unknown,277686.1013,Moderate,Female,<20,3
+Amador,2015,Black,62157.25869,Moderate,Male,>60,4
+Glenn,2012,Other,60952.12485,Moderate,Unknown,>60,2
+Calaveras,2015,White,54060.82599,Moderate,Female,>60,1
+Stanislaus,2016,Aisan,79617.10534,Moderate,Male,40-60,1
+Santa Clara,2016,Hispanic,223716.4583,Moderate,Male,<20,4
+Lake,2014,American,66246.19289,Moderate,Unknown,>60,2
+San Mateo,2018,Other,85301.24177,Moderate,Male,40-60,3
+Orange,2012,Other,243925.7059,Moderate,Male,<20,2
+San Joaquin,2015,Aisan,246662.6519,Moderate,Unknown,<20,3
+Glenn,2017,Black,145078.2962,Moderate,Female,20-40,4
+Shasta,2018,Other,521148.5,Severe,Unknown,<20,6
+Fresno,2014,White,319747.2994,Moderate,Female,<20,3
+Tuolumne,2014,White,82692.65041,Moderate,Unknown,40-60,4
+Alameda,2014,Black,60805.08941,Moderate,Female,>60,3
+Monterey,2014,American,101705.2311,Moderate,Male,40-60,2
+San Diego,2014,Unknown,89797.06638,Moderate,Unknown,40-60,3
+Humboldt,2015,Other,210771.838,Moderate,Unknown,20-40,3
+Riverside,2015,Black,66496.22752,Moderate,Male,>60,3
+Monterey,2017,Aisan,75028.57618,Moderate,Female,40-60,2
+Calaveras,2017,American,89253.72085,Severe,Female,40-60,5
+Riverside,2015,Unknown,163730.2113,Moderate,Unknown,20-40,3
+Mendocino,2018,Other,82399.30906,Severe,Male,40-60,5
+Humboldt,2012,American,298946.5341,Moderate,Male,<20,4
+Napa,2013,White,108484.6811,Moderate,Unknown,40-60,3
+Calaveras,2015,Aisan,459902.1144,Moderate,Female,<20,4
+Tehama,2014,Hispanic,76050.93584,Moderate,Female,40-60,2
+Humboldt,2018,Aisan,95612.81743,Moderate,Male,40-60,3
+El Dorado,2018,Other,122431.2986,Moderate,Female,20-40,4
+Fresno,2016,Aisan,76972.19742,Moderate,Female,40-60,3
+Sacramento,2018,White,109009.2335,Moderate,Male,40-60,3
+Madera,2017,Hispanic,79062.57618,Moderate,Male,40-60,4
+Kern,2013,White,82881.02638,Moderate,Unknown,40-60,2
+Marin,2014,Aisan,65097.35829,Moderate,Male,>60,4
+Plumas,2012,American,66988.12485,Severe,Female,>60,5
+Amador,2013,White,82881.02638,Moderate,Male,40-60,2
+Madera,2014,Unknown,140268.3361,Moderate,Male,20-40,4
+Marin,2015,Unknown,87599.13921,Severe,Unknown,40-60,5
+Contra Costa,2012,Aisan,346977.1142,Moderate,Female,<20,4
+Siskiyou,2017,Other,221917.4523,Moderate,Unknown,<20,3
+Mono,2016,American,108799.2608,Moderate,Unknown,40-60,3
+Sonoma,2017,Other,70649.4811,Moderate,Unknown,>60,1
+Riverside,2014,Hispanic,101453.5529,Moderate,Male,40-60,3
+Sonoma,2015,White,201074.8106,Moderate,Unknown,20-40,3
+San Diego,2017,American,65279.41938,Moderate,Female,>60,4
+Humboldt,2017,Aisan,127584.7639,Severe,Female,20-40,5
+Shasta,2014,Other,126626.8024,Moderate,Female,20-40,3
+San Benito,2018,American,75916.77118,Moderate,Unknown,40-60,3
+Tulare,2016,Hispanic,454306.7042,Moderate,Male,<20,1
+Del Norte,2017,Other,164049.3894,Moderate,Male,20-40,3
+Sonoma,2018,American,78336.21094,Moderate,Male,40-60,1
+San Luis Obispo,2015,Black,72282.85913,Moderate,Male,>60,4
+Kern,2017,Other,88379.4174,Moderate,Male,40-60,3
+Butte,2015,American,71296.50704,Moderate,Female,>60,4
+San Joaquin,2017,Aisan,56943.35815,Moderate,Female,>60,1
+San Diego,2014,Other,210565.6856,Moderate,Male,20-40,3
+Contra Costa,2016,Other,61186.70423,Moderate,Female,>60,2
+San Francisco,2014,Unknown,152363.5286,Moderate,Female,20-40,3
+San Mateo,2012,Unknown,179634.9748,Moderate,Male,20-40,1
+Sonoma,2015,Other,67636.53588,Moderate,Female,>60,4
+Sacramento,2016,Black,115089.3559,Moderate,Female,20-40,2
+Trinity,2015,Unknown,116096.1067,Moderate,Female,20-40,4
+El Dorado,2012,Hispanic,130015.9401,Moderate,Male,20-40,3
+Santa Cruz,2014,White,71217.72982,Moderate,Female,>60,3
+Ventura,2013,White,80778.27055,Severe,Female,40-60,5
+Santa Barbara,2017,Hispanic,82293.59221,Moderate,Female,40-60,3
+Tulare,2017,Unknown,74683.4811,Moderate,Female,>60,3
+Riverside,2014,White,101705.2311,Moderate,Unknown,40-60,2
+Calaveras,2012,Other,95063.04928,Moderate,Female,40-60,3
+Kern,2015,American,62787.12833,Severe,Male,>60,5
+Mono,2017,Other,233835.5693,Moderate,Male,<20,3
+Nevada,2014,Other,221266.7887,Moderate,Female,<20,3
+Nevada,2018,American,92905.71667,Severe,Unknown,40-60,6
+Orange,2017,Hispanic,456773.5166,Moderate,Unknown,<20,2
+Yolo,2017,White,70456.50511,Moderate,Male,>60,2
+Glenn,2016,Unknown,58812.46104,Moderate,Unknown,>60,3
+Madera,2013,White,234934.0063,Moderate,Male,<20,4
+Amador,2017,White,125567.7639,Moderate,Female,20-40,4
+Riverside,2015,American,66786.79563,Moderate,Female,>60,4
+Yuba,2016,Black,65544.72355,Severe,Unknown,>60,6
+Monterey,2013,Black,129980.9251,Moderate,Male,20-40,1
+San Mateo,2015,Unknown,109303.8654,Moderate,Male,20-40,2
+Stanislaus,2015,Hispanic,72335.84507,Moderate,Male,>60,3
+San Diego,2016,Unknown,95429.38545,Moderate,Male,40-60,3
+Inyo,2017,American,65745.86065,Moderate,Unknown,>60,3
+Placer,2016,Hispanic,80832.95966,Moderate,Male,40-60,3
+San Bernardino,2017,American,78259.59221,Moderate,Unknown,40-60,1
+Tulare,2017,Other,117218.5592,Moderate,Male,20-40,3
+Kern,2017,Black,77045.57618,Moderate,Male,40-60,3
+Yuba,2015,White,74109.47587,Moderate,Female,40-60,1
+San Joaquin,2018,Other,61034.83507,Moderate,Male,>60,3
+Mendocino,2012,Black,59272.83585,Moderate,Unknown,>60,3
+Mono,2018,Other,126738.4857,Moderate,Male,20-40,1
+Del Norte,2014,Aisan,85769.06638,Moderate,Female,40-60,1
+Santa Cruz,2012,White,68055.76717,Moderate,Female,>60,2
+Solano,2017,American,61718.4901,Moderate,Unknown,>60,3
+San Diego,2017,Aisan,58200.19404,Moderate,Female,>60,3
+Los Angeles,2013,American,91450.03477,Moderate,Female,40-60,3
+Yuba,2016,Unknown,93532.16055,Moderate,Female,40-60,3
+Tuolumne,2012,Hispanic,247949.7059,Moderate,Unknown,<20,4
+San Bernardino,2012,Hispanic,110391.9223,Moderate,Unknown,40-60,4
+Tulare,2014,White,56057.57746,Moderate,Unknown,>60,1
+Inyo,2014,White,274204.4295,Moderate,Female,<20,1
+Sacramento,2014,American,60715.82158,Moderate,Female,>60,4
+Placer,2018,Unknown,93711.82633,Moderate,Male,40-60,3
+El Dorado,2018,American,56276.46225,Moderate,Unknown,>60,1
+Santa Cruz,2012,American,77495.95109,Moderate,Male,40-60,4
+Trinity,2014,Unknown,69347.10576,Moderate,Male,>60,4
+Calaveras,2015,Hispanic,114977.2073,Moderate,Unknown,20-40,2
+San Benito,2018,Aisan,179345.4077,Moderate,Unknown,20-40,4
+Riverside,2012,White,68055.76717,Moderate,Female,>60,2
+San Benito,2016,White,278779.2946,Moderate,Female,<20,3
+Mendocino,2016,American,71740.36057,Moderate,Female,40-60,1
+Marin,2014,Hispanic,97223.53693,Moderate,Female,40-60,3
+San Luis Obispo,2014,Aisan,101453.5529,Moderate,Male,40-60,3
+Mariposa,2012,Hispanic,74667.0314,Moderate,Female,40-60,2
+Butte,2015,Black,95337.73543,Moderate,Male,40-60,3
+Contra Costa,2013,Aisan,126504.0855,Moderate,Male,20-40,3
+Plumas,2015,White,111318.8654,Moderate,Male,20-40,3
+Monterey,2015,Black,161715.2113,Moderate,Female,20-40,2
+Madera,2018,Aisan,414433.5335,Moderate,Male,<20,3
+San Francisco,2013,American,67269.25582,Moderate,Female,>60,3
+San Benito,2012,Aisan,75483.95109,Moderate,Unknown,40-60,3
+San Luis Obispo,2012,Unknown,212165.6834,Moderate,Male,20-40,4
+Sonoma,2018,Aisan,72736.55199,Moderate,Female,>60,2
+Kern,2014,White,61398.7271,Moderate,Female,>60,4
+Kings,2017,Black,78259.59221,Moderate,Unknown,40-60,1
+Lake,2015,Other,110709.3504,Moderate,Male,40-60,4
+Nevada,2017,Unknown,85219.72085,Moderate,Female,40-60,3
+Sonoma,2012,Hispanic,70067.76717,Moderate,Male,>60,3
+Shasta,2012,Black,93173.34558,Moderate,Male,40-60,3
+San Francisco,2016,Unknown,235622.7606,Moderate,Unknown,<20,4
+Tuolumne,2012,White,86353.9688,Moderate,Female,40-60,3
+San Bernardino,2015,Black,103819.2535,Moderate,Male,40-60,3
+San Joaquin,2015,Unknown,341955.5908,Moderate,Male,<20,1
+San Bernardino,2014,American,76825.54461,Moderate,Unknown,40-60,3
+Tehama,2015,Unknown,111318.8654,Moderate,Female,20-40,3
+Santa Barbara,2017,White,106887.2219,Moderate,Female,40-60,2
+Santa Barbara,2018,Aisan,459242.5516,Moderate,Male,<20,3
+Mariposa,2015,Unknown,182183.0605,Moderate,Female,20-40,2
+Tulare,2012,Hispanic,344965.1142,Moderate,Male,<20,3
+Plumas,2012,Black,103519.331,Moderate,Male,40-60,3
+Mono,2018,Black,68519.58109,Moderate,Female,>60,3
+Mono,2013,Black,59799.07133,Moderate,Unknown,>60,1
+Orange,2016,Hispanic,73490.48784,Moderate,Female,>60,3
+Lassen,2017,White,65752.4901,Severe,Female,>60,5
+Stanislaus,2013,Unknown,74399.53493,Moderate,Male,>60,3
+Fresno,2012,White,55948.29496,Moderate,Female,>60,1
+Sacramento,2017,Unknown,510553.125,Moderate,Unknown,<20,1
+Out of State/Homeless,2013,Hispanic,138120.0754,Moderate,Male,20-40,3
+Solano,2017,Unknown,69541.8369,Moderate,Male,>60,4
+Placer,2018,Black,251424.6646,Severe,Female,<20,5
+Butte,2018,Aisan,279326.6966,Moderate,Unknown,<20,3
+San Joaquin,2012,Hispanic,319118.5595,Moderate,Unknown,<20,3
+San Bernardino,2018,Other,243352.6646,Moderate,Male,<20,1
+Sacramento,2014,Black,123192.4956,Moderate,Male,20-40,3
+Nevada,2016,Unknown,518112.0,Severe,Unknown,<20,5
+San Francisco,2012,White,108379.9223,Moderate,Unknown,40-60,3
+Kings,2016,American,188410.6996,Moderate,Female,20-40,1
+Sutter,2012,Unknown,57260.83585,Moderate,Female,>60,2
+Inyo,2017,Black,231818.5693,Moderate,Female,<20,2
+Sonoma,2017,White,64066.95105,Moderate,Male,>60,3
+San Joaquin,2012,Other,122953.9388,Moderate,Male,20-40,3
+Imperial,2013,Hispanic,101355.8281,Moderate,Female,40-60,3
+Mendocino,2012,Aisan,91980.75069,Severe,Male,40-60,5
+Shasta,2017,Unknown,91487.07945,Moderate,Female,40-60,1
+Shasta,2016,American,156051.9311,Moderate,Male,20-40,2
+San Joaquin,2013,White,208346.6341,Moderate,Female,20-40,2
